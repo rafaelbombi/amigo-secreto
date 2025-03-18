@@ -36,7 +36,7 @@
 
 <h2>📷 Imagem do jogo</h2>
 
-![image](https://github.com/user-attachments/assets/d7931b5f-d482-4fdf-befd-6738f767a146)
+![image](https://github.com/user-attachments/assets/ce2a9de1-5949-4e30-b40f-242428a95e79)
 
 <p></p>
 
